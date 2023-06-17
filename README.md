@@ -211,9 +211,9 @@ d=t/59;
 
 ![](https://github.com/Michellecg/Node-Red_con-DHT22-y-ultrasonico/blob/main/Lib_Ult_DHT22.PNG)
 
-10. Hacer la conexión del **sensor ultrasónico de distancia**, **DHT22** y **LCD de 16x2** a la tarjeta **ESP32** como se muestra en la siguente imagen.
+10. Hacer la conexión del **sensor ultrasónico de distancia** y **DHT22** a la tarjeta **ESP32** como se muestra en la siguente imagen.
 
-![](https://github.com/Michellecg/DHT22_y_sensor_ultrasonico/blob/main/Conex_sens.PNG)
+![](https://github.com/Michellecg/Node-Red_con-DHT22-y-ultrasonico/blob/main/Conex_Ult_DHT22.PNG)
 
 11. Regresando a la página de Node-RED, añadir tres bloques **gauge**, se modifica el nombre a **Distancia**, **Temperatura y **Humedad**, además, se agrega un bloque **chart** para la gráfica.
 
